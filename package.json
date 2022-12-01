@@ -1,7 +1,7 @@
 {
   "name": "gdsc-pccoer-web",
   "version": "0.1.0",
-  "private": true,https://github.com/GDSC-PCCOER/web-gdsc/blob/master/package.json
+  "private": true,
   "homepage": "https://GDSC-PCCOER.github.io/web-gdsc",
   "dependencies": {
     "-": "^0.0.1",
