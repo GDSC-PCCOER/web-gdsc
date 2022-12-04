@@ -197,14 +197,14 @@ const Team = () => {
                 <a
                   target="_blank"
                   rel="noreferrer"
-                  href="https://www.linkedin.com/in/abhay-rajput-2a84b81b7"
+                  href="https://www.linkedin.com/in/abhay-rajput-2a1877565x"
                 >
                   <i className="fa fa-linkedin ico-link"></i>
                 </a>
                 <a
                   target="_blank"
                   rel="noreferrer"
-                  href="https://github.com/rajputabhay"
+                  href="https://github.com/rajputabhayaz"
                 >
                   <i className="fa fa-github ico-github"></i>
                 </a>
